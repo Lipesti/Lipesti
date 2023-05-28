@@ -1,8 +1,16 @@
 <img width=100% height= 300px src="https://blogdaengenharia.com/wp-content/uploads/2021/07/Design-sem-nome-4.png">
 
 ## Olá, eu sou o Felipe Santos !👨🏻‍💻
+
 ### Bem vindo ao meu perfil GitHub 👋
-   ![avatar_1684542021995](https://github.com/Lipesti/Lipesti/assets/88855179/9c9a2fe3-3ca7-4ac8-b4d6-5939d330188c)
+ ![avatar_1684542021995](https://github.com/Lipesti/Lipesti/assets/88855179/9c9a2fe3-3ca7-4ac8-b4d6-5939d330188c)
+ 
+ 
+ <div>
+<a href="https://www.instagram.com/lipess_santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "lipes.santos02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipe-ferreira-dos-santos-4971a0203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <p><b>Sou recém formado em Analise e Desenvolvimento de Sistemas com grandes interesses em tecnologia e sempre estou atento às últimas novidades, tenho algumas experiências básicas em HTML, CSS, JavaScript e Bootstrap, e também programo com Python como hobby. 
 Estou em busca da primeira oportunidade de trabalho como programador profissional, e tenho o conhecimento, comprometimento e motivação necessários para construir uma carreira bem-sucedida nessa área. 
