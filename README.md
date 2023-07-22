@@ -34,13 +34,14 @@ Gostaria de contar com a oportunidade de demonstrar meus conhecimentos e habilid
 <h1>Minhas estastíticas do GitHub</h1>
 <p align="center">
 <a href="https://github.com/Lipesti">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lipesti&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lipesti&layout=compact&langs_count=8&theme=omni&hide_border=true&border_radius=5"/>
-<img height="140em" src= "https://streak-stats.demolab.com?user=Lipesti&theme=omni&hide_border=true&border_radius=5&locale=pt_BR"/> 
-<img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lipesti&theme=omni&utcOffset=8"/> 
-<img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lipesti&theme=omni"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lipesti&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lipesti&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=5"/>
+<img height="140em" src= "https://streak-stats.demolab.com?user=Lipesti&theme=dark&hide_border=true&border_radius=5&locale=pt_BR"/> 
+<img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lipesti&theme=dark&utcOffset=8"/> 
+<img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lipesti&theme=dark"/>
 </a>
 </p>
+
 
           
 
