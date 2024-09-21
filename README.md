@@ -1,9 +1,11 @@
-<img width=100% height= 400px src="https://viacarreira.com/wp-content/uploads/2021/10/linguagens-de-programacao-mais-rentaveis.png">
 
-## Olá, eu sou o Felipe Santos !👨🏻‍💻
 
-### Bem vindo ao meu perfil GitHub 👋
+
+
+## <span class="animated-greeting">Olá, eu sou o Felipe Santos! 👨🏻‍💻</span>
  ![avatar_1684542021995](https://github.com/Lipesti/Lipesti/assets/88855179/9c9a2fe3-3ca7-4ac8-b4d6-5939d330188c)
+
+ 
  
  
  <div>
