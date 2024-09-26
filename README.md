@@ -11,7 +11,10 @@
  <div>
 <a href="https://www.instagram.com/lipess_santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:lipes.santos02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/felipe-ferreira-dos-santos-4971a0203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+<a href="https://www.linkedin.com/in/felipe-ferreira-dos-santos-4971a0203/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+  
 </div>
 
 <p><b>Sou recém formado em Analise e Desenvolvimento de Sistemas com grandes interesses em tecnologia e sempre estou atento às últimas novidades, tenho algumas experiências básicas em HTML, CSS, JavaScript e Bootstrap, e também programo com Python como hobby. 
