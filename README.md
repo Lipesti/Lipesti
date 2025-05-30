@@ -21,9 +21,33 @@
   
 </div>
 
-<p><b>Sou recém formado em Analise e Desenvolvimento de Sistemas com grandes interesses em tecnologia e sempre estou atento às últimas novidades, tenho algumas experiências básicas em HTML, CSS, JavaScript e Bootstrap, e também programo com Python como hobby. 
-Estou em busca da primeira oportunidade de trabalho como programador profissional, e tenho o conhecimento, comprometimento e motivação necessários para construir uma carreira bem-sucedida nessa área. 
-Gostaria de contar com a oportunidade de demonstrar meus conhecimentos e habilidades.</p>
+<p><b>Sou um entusiasta da tecnologia e da programação, sempre em busca de novos aprendizados e desafios. Tenho experiência com Java, Python, HTML, CSS, JavaScript, SQL e PHP, e venho desenvolvendo projetos práticos que envolvem desde ferramentas de simulação até jogos educativos e sistemas web.
+
+Atualmente, estou focado em criar soluções que combinam usabilidade, lógica e propósito, como simuladores financeiros, jogos com mensagens educativas e sistemas de apoio à inclusão digital.
+
+🔍 Curioso por natureza
+💻 Apaixonado por tecnologia
+🎯 Focado em aprendizado contínuo e projetos com propósito
+
+🛠️ Tecnologias que venho explorando:
+Frontend: HTML, CSS, JavaScript, Bootstrap
+
+Backend: Java, Python, PHP
+
+Banco de Dados: SQL
+
+Ferramentas: Excel (avançado), Canva, WordPress
+
+Outros: Lógica de programação, gamificação, UI/UX para usuários iniciantes (como idosos)
+
+💡 Interesses atuais
+Criar projetos acessíveis para públicos diversos
+
+Desenvolver sistemas educativos e interativos
+
+Aprender mais sobre integração de tecnologias frontend e backend
+
+Contribuir com ideias criativas e soluções simples para problemas reais.</p>
                                                                
 <img width=100% height= 400px   src="https://media.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif">
  <br>
